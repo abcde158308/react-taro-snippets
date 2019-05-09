@@ -1,8 +1,8 @@
 
 # react-taro-snippets
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/crper.react-taro-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=crper.react-taro-snippets)
-[![Install](https://vsmarketplacebadge.apphb.com/installs-short/crper.react-taro-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=crper.react-taro-snippets)
+[![Version](https://vsmarketplacebadge.apphb.com/version/liulei.react-taro-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=liulei.react-taro-snippets)
+[![Install](https://vsmarketplacebadge.apphb.com/installs-short/liulei.react-taro-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=liulei.react-taro-snippets)
 
 
 用JS的格式,但是智能提示响应范围包括如下
