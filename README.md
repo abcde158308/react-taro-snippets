@@ -19,7 +19,7 @@
 
 # 效果
 
-![演示Demo](images/show.gif)
+![演示Demo](images/a.gif)
 
 
 ---
