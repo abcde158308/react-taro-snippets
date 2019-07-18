@@ -251,4 +251,4 @@ import { action, observable, computed, toJS } from 'mobx'
 # 其他
 
 
-有问题的小伙伴可以提交`PR`
+有问题的小伙伴可以提交 [`Issues` `PR`](https://github.com/abcde158308/react-taro-snippets/issues)  

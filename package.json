@@ -1,7 +1,7 @@
 {
   "name": "react-taro-snippets",
-  "version": "0.0.2",
-  "description": "Code snippets for react and taro",
+  "version": "0.0.3",
+  "description": "支持taro和react快速生成页面代码片段，支持ts",
   "displayName": "react-taro-snippets",
   "publisher": "liulei",
   "icon": "images/taro.png",
